@@ -1,0 +1,29 @@
+****** Proyecto estadisticas de futbol ******
+Descripcion
+    -web movil, de estadisticas de partidos de futbol
+Estructura Carpetas
+  -FrontEnd
+    -Apartado
+      - modelo
+      - controlador
+      - vista
+Metodo de programacion
+  -FrontEnd
+    - Trabajar con Modulos
+    - Trabajar con Clases
+    - Trabajar con Promesas
+    - Trabajar con Modelo controlador vista
+    - Carga global
+  -Backend
+    -php orientados a obj
+
+****** Apartados de la app ******
+
+  -apartado de USUARIO
+    -info personal
+  -apartado de estadisticas
+    -Inicio
+    -Ligas
+    -Partido
+  -Equipos
+    -estadisticas del equipo
