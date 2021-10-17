@@ -4,7 +4,6 @@
     <?include $DOCUMENT_ROOT."/frontEnd/head.php";?>
   </head>
   <body>
-
-      sdasdasdas
+    <h1> hola mundo<h1>
   </body>
 </html>
