@@ -5,6 +5,6 @@
   </head>
   <body>
     <h1> hola mundo<h1>
-  </body> mierda
-  mierdax2
+    <p>mierda</p>
+  </body>
 </html>
