@@ -3,5 +3,8 @@
   <head>
     <?include $DOCUMENT_ROOT."/frontEnd/head.php";?>
   </head>
-  <body></body>
+  <body>
+
+      sdasdasdas
+  </body>
 </html>
